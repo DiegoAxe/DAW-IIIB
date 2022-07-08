@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+body{
+    background-color: #20B2AA;
+}
+
+#info{
+    margin-top: 25vh;
+    background-color: #191970;
+    width: 100vw;
+    height: 50vh;
+    color: white;
+    font-size: 40px;
+    line-height: 27vh;
+}
+
+#info h1 {
+    line-height: 0;
+}

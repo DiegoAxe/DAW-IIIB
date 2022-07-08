@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    list-style: none;
+}
+
+body{
+    background-color: #FFA07A;
+}
+
+#Medidas{
+    margin-top: 20vh;
+    background-color: #B22222;
+    width: 100vw;
+    height: 30vh;
+    color: white;
+    font-size: 40px;
+    line-height: 25vh;
+}
+#Medidas button{
+    background-color: #B22222;
+    width: 24vw;
+    height: 10vh;
+    color: white;
+    font-size: 50px;
+    font-weight: bold;
+    border: none;
+}
+#Medidas button:hover{
+    color: blue;
+}
+
+#Resultado{
+    background-color: #800000;
+    width: 100vw;
+    height: 20vh;
+    color: white;
+    font-size: 40px;
+    line-height: 20vh;
+}
