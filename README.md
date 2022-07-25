@@ -26,7 +26,7 @@ Acceso a las diferentes guias:
  - <a href="https://diegoaxe.github.io/DAW-IIIB/Guia%202/Ejemplo%206/burbuja.html"> Ejemplo 6 </a> <br>
  - <a href="https://diegoaxe.github.io/DAW-IIIB/Guia%202/Ejemplo%207/ciudades.html"> Ejemplo 7 </a> <br>
  - <a href="https://diegoaxe.github.io/DAW-IIIB/Guia%202/Cifras.html"> Ejercicio 1 - Info de las Cifras</a> <br>
- - <a href="https://diegoaxe.github.io/DAW-IIIB/Guia%202/"> Ejercicio 2 - Listado de Productos </a> <br>
+ - <a href="https://diegoaxe.github.io/DAW-IIIB/Guia%202/Productos y Precios.html"> Ejercicio 2 - Listado de Productos </a> <br>
  - <a href="https://diegoaxe.github.io/DAW-IIIB/Guia%202/Burbuja 2.0.html"> Ejercicio 3 - Metodo Burbuja </a> <br>
  <hr>
 <h2> GUIA 3 </h2>
