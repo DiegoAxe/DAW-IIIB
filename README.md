@@ -29,3 +29,17 @@ Acceso a las diferentes guias:
  - <a href="https://diegoaxe.github.io/DAW-IIIB/Guia%202/"> Ejercicio 2 - Listado de Productos </a> <br>
  - <a href="https://diegoaxe.github.io/DAW-IIIB/Guia%202/Burbuja 2.0.html"> Ejercicio 3 - Metodo Burbuja </a> <br>
  <hr>
+<h2> GUIA 3 </h2>
+ - <a href="https://diegoaxe.github.io/DAW-IIIB/Guia%203/Ejemplo%201/eventos.html"> Ejemplo 1 </a> <br>
+ - <a href="https://diegoaxe.github.io/DAW-IIIB/Guia%203/Ejemplo%202/enlaces.html"> Ejemplo 2 </a> <br>
+ - <a href="https://diegoaxe.github.io/DAW-IIIB/Guia%203/Ejemplo%203/datos.html"> Ejemplo 3 </a> <br>
+ - <a href="https://diegoaxe.github.io/DAW-IIIB/Guia%203/Ejemplo%204/solonumeros.html"> Ejemplo 4 </a> <br>
+ - <a href="https://diegoaxe.github.io/DAW-IIIB/Guia%203/Ejemplo%205/aleatorios.html"> Ejemplo 5 </a> <br>
+ - <a href="https://diegoaxe.github.io/DAW-IIIB/Guia%203/Ejemplo%206/tiradados.html"> Ejemplo 6 </a> <br>
+ - <a href="https://diegoaxe.github.io/DAW-IIIB/Guia%203/"> Ejercicio 1 - Calculadora Basica </a> <br>
+<hr>
+
+
+
+
+
