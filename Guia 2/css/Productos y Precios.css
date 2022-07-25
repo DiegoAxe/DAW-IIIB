@@ -1,0 +1,24 @@
+*{
+background-color: #76D7C4;
+padding: 0;
+margin: 0;
+}
+table{
+    margin: 25vh 25vw;
+}
+th{
+    font-weight: bold;
+    font-size: 40px;
+    background-color: #5499C7;
+}
+td{
+    font-size: 30px;
+    background-color: #85C1E9;
+}
+th, td{
+    border: solid 3px #0B5345;
+    width: 250px;
+    height:50px;
+    text-align: center;
+
+}
